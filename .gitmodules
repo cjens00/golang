@@ -1,0 +1,3 @@
+[submodule "Go-ChatServer"]
+	path = Go-ChatServer
+	url = https://github.com/cjens00/Go-ChatServer
